@@ -43,7 +43,7 @@ c)  var smallest, largest = num[0]  // set up variables to hold smallest and lar
         if num[i] > largest         // same thing but for largest ...
             largest = num[i]
 
-d)  print(smallest, largest)   
+d)  print("This is the smallest: (smallest), This is the largest: (largest)")   
 
 
 -- END --
